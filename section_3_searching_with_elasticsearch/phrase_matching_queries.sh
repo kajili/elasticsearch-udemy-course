@@ -1,3 +1,6 @@
+curl -XGET localhost:9200
+
+
 curl -XGET localhost:9200/movies/_search?pretty -d '
 {
 "query": {
