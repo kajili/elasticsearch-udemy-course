@@ -1,7 +1,7 @@
 import csv
 import re
 
-csvfile = open('ml-latest-small/movies.csv', 'r')
+csvfile = open('/home/kevinajili/repos/github/elasticsearch-udemy-course/course_downloads/ml-latest-small/movies.csv', 'r')
 
 reader = csv.DictReader( csvfile )
 for movie in reader:
