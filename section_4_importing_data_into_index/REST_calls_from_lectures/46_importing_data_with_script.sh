@@ -1,0 +1,1 @@
+curl -XGET "localhost:9200/movies/_search?q=mary%20poppins&pretty"
