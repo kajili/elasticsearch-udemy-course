@@ -1,0 +1,1 @@
+# media.sundog-soft.com/es/sayt.txt
